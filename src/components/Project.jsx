@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import book from "../assets/BOOK.png";
-import gemini from "../assets/gemini.png";
+import gemini from "../assets/GEMINI.png";
 import note from "../assets/note.png";
 
 const projects = [
