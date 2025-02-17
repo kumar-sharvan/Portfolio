@@ -1,6 +1,6 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import book from "../assets/book.png";
+import book from "../assets/BOOK.png";
 import gemini from "../assets/gemini.png";
 import note from "../assets/note.png";
 
