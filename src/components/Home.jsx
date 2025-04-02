@@ -1,5 +1,5 @@
 import boy_home from "../assets/boy_home.png";
-import resume from "../assets/resume2.pdf";
+import resume from "../assets/resume3.pdf";
 
 function Home() {
   return (
